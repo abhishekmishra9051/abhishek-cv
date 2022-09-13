@@ -2,9 +2,12 @@ import Home from "./home"
 import About from './about'
 import Portfolio from './portfolio'
 import Contact from './contact'
- export default {
+
+ const container ={
     Home,
     About,
     Portfolio,
     Contact
 }
+
+export default container;
