@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-      <h1></h1>
+      <h1> Hi There!</h1>
       <p>
         My name is Abhishek Mishra. I am basically from Patana (Bihar) but I am
         currently living in mohali (Punjab). About my qualification, Currently,
